@@ -1,0 +1,16 @@
+.upturn-slogan {
+  text-align: center;
+  font-size: calc(50px + 1.5vh);
+}
+
+.main-container span {
+  display: inline-block;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 95vh;
+}
