@@ -1,16 +1,48 @@
 .upturn-slogan {
   text-align: center;
-  font-size: calc(50px + 1.5vh);
+  font-size: calc(30px + 1.5vh);
+  font-family: roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .main-container span {
   display: inline-block;
 }
 
+.dot {
+  color: orange;
+}
+
 .main-container {
+  margin-top: 20vh;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-height: 95vh;
+  min-height: 40vh;
+}
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: center;
+  min-height: 20vh;
+  font-family: rustica, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+footer {
+  text-align: center;
+  font-family: roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+footer .chinese-footer{
+  font-family: "Apple LiGothic", sans-serif;
+  font-style: normal;
+  font-weight: 500;
 }
