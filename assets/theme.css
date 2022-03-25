@@ -42,7 +42,7 @@ footer {
 }
 
 footer .chinese-footer{
-  font-family: "Apple LiGothic", sans-serif;
+  font-family: "Apple LiGothic", "LiGothic", "LiHei Pro", "SimHei", sans-serif;
   font-style: normal;
   font-weight: 500;
 }
